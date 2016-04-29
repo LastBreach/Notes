@@ -25,6 +25,11 @@ Test and hone your skill on these challenges, at your own pace.
   * https://ringzer0team.com/
   * https://www.hackthissite.org/
   * https://www.pentesterlab.com - Haven't seen any competition, but it looks like a nice testing ground (both online & offline)
+  * https://hack.me/
+  * https://www.newbiecontest.org/ (french)
+  * https://pwn0.com/
+  * https://www.root-me.org/ (challenges & virtual environments)
+  * https://www.zenk-security.com/ (french)
 
   * https://www.wechall.net/ - Looks more like a challenge site compilation/ranking than being a challenge site itself.
 
@@ -42,11 +47,12 @@ Local vulnerable VMs
 
 Your getting your own section. Seriously.
 
-  * http://ctfs.me/
-  * http://root-me.org/
-  * http://smashthestack.org/
-  * http://wav-lab.com
-  * http://www.thehonz.com/
+  * http://ctfs.me/ (CTF competitions)
+  * http://smashthestack.org/ (challenges)
+  * http://wav-lab.com (web app vuln. lab)
+  * http://www.thehonz.com/infoseclabs/ (infosec labs)
+  * http://bright-shadows.net/ (challenges)
+  * http://crackmes.de/ (cracking & reverse engineering)
 
 
 ## CTF News, Writeups, Tools & Resources
@@ -56,10 +62,17 @@ Your getting your own section. Seriously.
   * https://github.com/apsdehal/awesome-ctf - CTF Framework & Tools
 
 
+### Pro Tip
+
+If you're going to do challenges, document them. Documentation is a vital part of penetration testing, and it requires practice just as everything else does. If you're looking for a good tool to take notes, I recommend ZIM desktop wiki. It's available for Mac/Linux/Windows. It automatically moves any screenshots you drag&drop into docs to the right location, so you won't loose your images when you move the notebooks folder. Also, it save a ton of time.
+
+Another suggestion was TiddlyWiki (web based), but I have no experience with it.
+
 ## Other Sources
 
 Not solely for CTF, but can include infos, news, etc.
 
   * https://www.reddit.com/r/AskNetsec
+
 
 
