@@ -4,10 +4,10 @@ Here's a list of websites regarding CTF competitions or challenges. Feel free to
 
 ## CTF Tournaments
 
-I haven't checked each of those sites in detail, if you feel one if in the wrong category, let me know.
+I haven't checked each of those sites in detail, if you feel one is in the wrong category, let me know.
 
   * https://ctf365.com/
-  * https://overthewire.org/wargames/ (Checkout "The Warzone", an isolated network simulating the entire IPv4 Internet for you to hack.)
+  * https://overthewire.org/wargames/ (Checkout "The Warzone", an isolated network simulating the entire IPv4 Internet.)
   * https://www.hacking-lab.com/ - VM based CTFs
   * https://www.vulnhub.com/ - VM based CTFs
   * https://www.picoctf.com
