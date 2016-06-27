@@ -6,6 +6,7 @@ Here's a list of websites regarding CTF competitions or challenges. Feel free to
 
 I haven't checked each of those sites in detail, if you feel one is in the wrong category, let me know.
 
+  * http://ctfs.me/ (CTF competitions)
   * https://ctf365.com/
   * https://overthewire.org/wargames/ (Checkout "The Warzone", an isolated network simulating the entire IPv4 Internet.)
   * https://www.hacking-lab.com/ - VM based CTFs
@@ -47,7 +48,7 @@ Local vulnerable VMs
 
 Your getting your own section. Seriously.
 
-  * http://ctfs.me/ (CTF competitions)
+  * http://ctf.ctx.is/ (Context Challenges)
   * http://smashthestack.org/ (challenges)
   * http://wav-lab.com (web app vuln. lab)
   * http://www.thehonz.com/infoseclabs/ (infosec labs)
@@ -86,7 +87,6 @@ The following links have been suggested but I haven't found the time yet to exam
   * https://www.sans.org/netwars/cybercity (paid)
   * https://n0where.net/ (excercises? I've only seen blog posts so far)
   * https://github.com/facebook/fbctf (Facebook CTF Platform)
-  * http://ctf.ctx.is/ (Context Challenges)
   * https://www.enigmagroup.org/ (Challenges)
   * https://www.hellboundhackers.org/ (Challenges)
   * https://www.hackthis.co.uk (Challenges)
