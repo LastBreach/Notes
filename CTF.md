@@ -73,6 +73,23 @@ Another suggestion was TiddlyWiki (web based), but I have no experience with it.
 Not solely for CTF, but can include infos, news, etc.
 
   * https://www.reddit.com/r/AskNetsec
+  * http://www.amanhardikar.com/mindmaps/Practice.html (Excercise Mind Map)
+  * https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project#tab=Main (Huge site overview of Excercises, Challenges, etc)
+
+
+
+## Sort
+
+The following links have been suggested but I haven't found the time yet to examine and sort them.
+
+  * https://www.sans.org/netwars/continuous/ (paid)
+  * https://www.sans.org/netwars/cybercity (paid)
+  * https://n0where.net/ (excercises? I've only seen blog posts so far)
+  * https://github.com/facebook/fbctf (Facebook CTF Platform)
+  * http://ctf.ctx.is/ (Context Challenges)
+  * https://www.enigmagroup.org/ (Challenges)
+  * https://www.hellboundhackers.org/ (Challenges)
+  * https://www.hackthis.co.uk (Challenges)
 
 
 
