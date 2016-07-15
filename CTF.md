@@ -68,6 +68,10 @@ Your getting your own section. Seriously.
   * http://pwnwiki.io - Infos on pentesting, CTFs, etc.
   * https://github.com/apsdehal/awesome-ctf - CTF Framework & Tools
 
+## Embedded CTFs / Challenges
+
+  * https://microcorruption.com/login
+
 
 ### Pro Tip
 
@@ -82,6 +86,9 @@ Not solely for CTF, but can include infos, news, etc.
   * http://www.amanhardikar.com/mindmaps/Practice.html (Excercise Mind Map)
   * https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project#tab=Main (Huge site overview of Excercises, Challenges, etc)
   * https://n0where.net/ (I heard it offers excercises. I've only seen blog posts so far. If anyone finds the challenges/ctfs/etc, let me know...)
+  * https://github.com/enaqx/awesome-pentest - Tons and tons of resources!
+  * http://www.cc.gatech.edu/~krwatson/ctf.html
+  * http://resources.infosecinstitute.com/tools-of-trade-and-resources-to-prepare-in-a-hacker-ctf-competition-or-challenge/
 
 
 ## Commercial
